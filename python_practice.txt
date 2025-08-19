@@ -15,3 +15,5 @@ Add a .gitignore File:
 
 Right-click in Explorer > New File, name it .gitignore.
 Add the following to ignore common unnecessary files:
+
+error
