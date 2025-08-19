@@ -1,0 +1,17 @@
+Initialize a Git Repository:
+
+In the terminal, type git init and press Enter (initializes a local Git repo; you’ll see “Initialized empty Git repository”).
+In Explorer (Ctrl + Shift + E), you’ll see a .git folder (hidden by default; it stores Git’s tracking data).
+
+
+Create a Sample File:
+
+In Explorer, right-click git-practice > New File, name it test.txt.
+Open test.txt and add some text (e.g., “This is a practice file for Git learning.”).
+Save: Ctrl + S.
+
+
+Add a .gitignore File:
+
+Right-click in Explorer > New File, name it .gitignore.
+Add the following to ignore common unnecessary files:
